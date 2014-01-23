@@ -1,0 +1,20 @@
+{
+  "name": "thunk-jugglingdb",
+  "version": "0.0.1",
+  "description": "Thunkify jugglingdb for easy use with co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jugglingdb",
+    "thunk",
+    "co",
+    "koa"
+  ],
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "thunkify": "0.0.1"
+  }
+}
