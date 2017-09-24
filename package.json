@@ -15,6 +15,6 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
   "dependencies": {
-    "thunkify": "0.0.1"
+    "thunkify": "2.1.2"
   }
 }
